@@ -1,2 +1,6 @@
-Rima Radio
-https://stream.zeno.fm/7nar8rye2wzuv
+[Playlist]
+NumberOfEntries=1
+File1=https://stream.zeno.fm/9rhysv7a508uv
+Title1=Rima AM Default Relay
+Length=-1
+Version=2
