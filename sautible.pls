@@ -1,5 +1,5 @@
 [Playlist]
-NumberOfEntries=3
+NumberOfEntries=5
 File1=https://stream.zeno.fm/9rhysv7a508uv
 Title1=Rima AM
 File2=http://stream.zeno.fm/vk9dvpwtzwzuv
@@ -10,7 +10,7 @@ File4=http://stream.live.vc.bbcmedia.co.uk/bbc_hausa_radio
 Title4=BBC Hausa
 File5=http://stream.zeno.fm/hfbgmx6rwrhvv
 Title=Jikan Babi Radio
-Length=1
+Length=3
 Version=2
 
 
