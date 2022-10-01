@@ -9,7 +9,7 @@ Title3=Garkuwa FM
 File4=http://stream.live.vc.bbcmedia.co.uk/bbc_hausa_radio
 Title4=BBC Hausa
 File5=http://stream.zeno.fm/hfbgmx6rwrhvv
-Title=Jikan Babi Radio
+Title5=Jikan Babi Radio
 Length=3
 Version=2
 
